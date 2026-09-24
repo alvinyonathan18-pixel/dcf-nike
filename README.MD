@@ -12,15 +12,8 @@ valuation of Nike, Inc., covering FY2023–FY2026.
 - ROE dropped 38.3% (FY24→FY25), driven almost entirely by falling Net 
   Margin. Rising leverage actually cushioned the decline rather than 
   worsening it.
-- A three-scenario DCF (Bear/Base/Bull, WACC 8.44%) implies a share price range of USD 32.57–48.31. The actual market price (~USD 36, Sept 2026) sits 
-  closer to the Bear case — consistent with the operating deleverage 
-  thesis found in the historical data.
--Comparable company analysis (P/E, EV/EBITDA vs. Adidas, Under Armour, Lululemon, 
-  Puma) shows Nike trading at a premium to its peer average (+27% on P/E, +12% on 
-  EV/EBITDA) — but this reflects a peer group in worse shape (Under Armour posted 
-  a net loss, Puma a negative EBITDA), not strength in absolute terms. Consistent 
-  with a broader apparel industry downturn, where Nike is weathering the weakness 
-  better than its competitors rather than being exempt from it. 
+- A three-scenario DCF (Bear/Base/Bull, WACC 8.44%) implies a share price range of USD 32.57–48.31. The actual market price (~USD 36, Sept 2026) sits closer to the Bear case — consistent with the operating deleverage thesis found in the historical data.
+- Comparable company analysis (P/E, EV/EBITDA vs. Adidas, Under Armour, Lululemon, Puma) shows Nike trading at a premium to its peer average (+27% on P/E, +12% on EV/EBITDA) — but this reflects a peer group in worse shape (Under Armour posted a net loss, Puma a negative EBITDA), not strength in absolute terms. Consistent with a broader apparel industry downturn, where Nike is weathering the weakness better than its competitors rather than being exempt from it.
 
 
 
