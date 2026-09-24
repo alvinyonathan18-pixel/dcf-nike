@@ -1,3 +1,4 @@
+
 # Nike (NKE) Financial Analysis & DCF Valuation
 
 Python-based financial statement analysis and discounted cash flow 
@@ -14,6 +15,18 @@ valuation of Nike, Inc., covering FY2023–FY2026.
 - A three-scenario DCF (Bear/Base/Bull, WACC 8.44%) implies a share price range of USD 32.57–48.31. The actual market price (~USD 36, Sept 2026) sits 
   closer to the Bear case — consistent with the operating deleverage 
   thesis found in the historical data.
+-Comparable company analysis (P/E, EV/EBITDA vs. Adidas, Under Armour, Lululemon, 
+  Puma) shows Nike trading at a premium to its peer average (+27% on P/E, +12% on 
+  EV/EBITDA) — but this reflects a peer group in worse shape (Under Armour posted 
+  a net loss, Puma a negative EBITDA), not strength in absolute terms. Consistent 
+  with a broader apparel industry downturn, where Nike is weathering the weakness 
+  better than its competitors rather than being exempt from it. 
+
+
+
+
+  
+
 
 ## Methodology
 
@@ -21,8 +34,9 @@ valuation of Nike, Inc., covering FY2023–FY2026.
   statement (FY2023–FY2026), sourced via the `yfinance` library
 - **Ratio analysis:** profitability margins, DuPont decomposition (ROE), 
   leverage ratios, working capital analysis
-- **Valuation:** 5-year FCF projection (3 scenarios) discounted at WACC, 
-  with a Gordon Growth terminal value
+-  **Valuation:** 5-year FCF projection (3 scenarios) discounted at WACC, with a 
+  Gordon Growth terminal value. Cross-checked against a comparable company 
+  analysis (P/E, EV/EBITDA) using four apparel-sector peers.alue
 
 ## Repository Structure
 
