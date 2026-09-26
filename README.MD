@@ -67,6 +67,9 @@ calculations in `analysis.ipynb` and matched exactly.
 
 ## Running This Notebook
 
+pip install -r requirements.txt
+jupyter notebook analysis.ipynb
+
 All cells read from the included CSV files — no live API calls required 
 to reproduce the analysis.
 
